@@ -217,6 +217,12 @@ img{
 .img-circle{
     border-radius:50%
 }
+.img-center{
+    margin-right:auto;
+    margin-left:auto;
+    padding-left:15px;
+    padding-right:15px
+}
 hr{
     margin-top:20px;
     margin-bottom:20px;
