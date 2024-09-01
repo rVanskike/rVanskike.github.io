@@ -234,6 +234,7 @@ footer{
     min-height:500px;
     max-height:1080px;
     background:url(../images/Artificial_Neural_Network_with_Chip.jpg);
+    background:place-items: center;
     background-size:cover;
     padding:15px;
     overflow:hidden
