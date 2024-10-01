@@ -38,7 +38,42 @@
         }
     });
 
-    // Scroll to top
+    // Scroll to top Self Assessment
+    $('#to-top-self').click(function() {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 500);
+    });
+
+    // Scroll to top Code Review
+    $('#to-top-code').click(function() {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 500);
+    });
+
+    // Scroll to top Ehancement 1
+    $('#to-top-one').click(function() {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 500);
+    });
+
+    // Scroll to top Ehancement 2
+    $('#to-top-two').click(function() {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 500);
+    });
+
+    // Scroll to top Ehancement 3
+    $('#to-top-three').click(function() {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 500);
+    });
+
+    // Scroll to top Bottom Page
     $('#to-top').click(function() {
         $('html, body').animate({
             scrollTop: 0
